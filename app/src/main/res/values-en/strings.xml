@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Our Weather</string>
+    <string name="slogan">Sky guidance at all times</string>
+    <string name="uv_rendah">Low</string>
+    <string name="uv_sedang">Currently</string>
+    <string name="uv_tinggi">High</string>
+    <string name="uv_sangattinggi">Very high</string>
+    <string name="uv_ekstrem">Extreme</string>
+    <string name="empathari">4 Days Ahead</string>
+    <string name="hariini">Today</string>
+    <string name="besok">Tomorrow</string>
+    <string name="terasaseperti">Feels Like</string>
+    <string name="kecepatanangin">Wind Speed</string>
+    <string name="kelembaban">Humidity</string>
+    <string name="visibilitas">Visibility</string>
+    <string name="tekananudara">Air pressure</string>
+    <string name="carikota">Search City</string>
+    <string name="inputnamakota">Enter city name..</string>
+    <string name="descsearch">Enter a city name to see the latest weather information.</string>
+    <string name="mencaridata">Looking for weather data..</string>
+</resources>

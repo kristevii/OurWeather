@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Our Weather</string>
+    <string name="slogan">Panduan langit setiap saat</string>
+    <string name="uv_rendah">Rendah</string>
+    <string name="uv_sedang">Sedang</string>
+    <string name="uv_tinggi">Tinggi</string>
+    <string name="uv_sangattinggi">Sangat tinggi</string>
+    <string name="uv_ekstrem">Ekstrem</string>
+    <string name="empathari">4 Hari ke Depan</string>
+    <string name="hariini">Hari ini</string>
+    <string name="besok">Besok</string>
+    <string name="terasaseperti">Terasa Seperti</string>
+    <string name="kecepatanangin">Kecepatan Angin</string>
+    <string name="kelembaban">Kelembaban</string>
+    <string name="visibilitas">Visibilitas</string>
+    <string name="tekananudara">Tekanan Udara</string>
+    <string name="carikota">Cari Kota</string>
+    <string name="inputnamakota">Masukkan nama kota..</string>
+    <string name="descsearch">Masukkan nama kota untuk melihat informasi cuaca terkini</string>
+    <string name="mencaridata">Mencari data cuaca..</string>
+</resources>
