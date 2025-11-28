@@ -46,5 +46,27 @@ Our Weather hadir sebagai solusi praktis untuk membantu pengguna merencanakan ak
 -   Dynamic Theme
 
 ## ⌞📸 Lampiran Tampilan Aplikasi⌝
+𓂃 𓈒𓏸 🌤️ Tampilan Tema Terang (Portrait) – Bahasa Indonesia
+<div align="center"> 
+  <table> 
+    <tr> 
+      <td align="center"> <img src="https://github.com/kristevii/OurWeather/blob/master/app/src/main/res/drawable/potmain_light.jpg" width="230"><br> <sub><b>Halaman Utama</b></sub> </td> 
+      <td align="center"> <img src="https://github.com/kristevii/OurWeather/blob/master/app/src/main/res/drawable/potsearch1_light.jpg" width="230"><br> <sub><b>Pencarian Kota</b></sub> </td> 
+      <td align="center"> <img src="https://github.com/kristevii/OurWeather/blob/master/app/src/main/res/drawable/potsearch2_light.jpg" width="230"><br> <sub><b>Hasil Pencarian</b></sub> </td> 
+    </tr> 
+  </table> 
+</div>
 
-Tampilan tema terang potrait dan bahasa Indonesia
+𓂃 𓈒𓏸 🌙 Tampilan Tema Gelap (Landscape) – Bahasa Inggris
+<div align="center"> 
+  <table> 
+    <tr> 
+      <td align="center"> <img src="https://github.com/kristevii/OurWeather/blob/master/app/src/main/res/drawable/landmain_dark.jpg" width="300"><br> <sub><b>Home</b></sub> </td> 
+      <td align="center"> <img src="https://github.com/kristevii/OurWeather/blob/master/app/src/main/res/drawable/landsearch2_night.jpg" width="300"><br> <sub><b>Search City</b></sub> </td> 
+      <td align="center"> <img src="https://github.com/kristevii/OurWeather/blob/master/app/src/main/res/drawable/landsearch1_night.jpg" width="300"><br> <sub><b>Search Result</b></sub> </td> 
+    </tr> 
+  </table> 
+</div>
+
+## ⚠️ Kebutuhan Koneksi Internet
+-   Aplikasi ini membutuhkan koneksi internet untuk mengambil data cuaca secara real-time dari OpenWeather API.
